@@ -23,7 +23,3 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/KunzxD404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Ramlan404/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
-</p>
