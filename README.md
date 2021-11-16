@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hallo Gays <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>KunzxD Was Here...</h1>
+
+<p align='center'>
+   <a href="https://instagram.com/iam.kunzx"><img height="30" src="https://github.com/Ramlan404/Ramlan404/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a 
