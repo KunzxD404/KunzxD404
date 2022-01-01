@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 -------
-<a href="https://github.com/KunzxD404/"><img src="https://cardivo.vercel.app/api?name=Hey guys Kunz was here&description=404 NOT FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
-
 <h1 align="center">Hey Guys <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Kunz was here </h1>
 <p align="center">
   <img src="https://telegra.ph/file/dfb3f9079ac7ceaf480ce.jpg" /></>
