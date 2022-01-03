@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/KunzxD404"><img src="https://cardivo.vercel.app/api?name=Hey%20guys%20Kunz%20was%20here&description=404%20NOT%20FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea"></a>&nbsp;&nbsp;
 <a
 
-<p align='center'>
-   <a href="https://instagram.com/iam_kunzx"><img height="30" src="https://github.com/KunzxD404/Kunzxd404/blob/main/profilr.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a 
-
+<p align="center">
+<a href="https://instagram.com/iam_kunzx"><img src="https://github.com/KunzxD404/Kunzxd404/blob/main/profilr.jpg?raw=true"></a>&nbsp;&nbsp;
+<a 
 
 <p align="center">
   <a href="https://github.com/KunzxD404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
