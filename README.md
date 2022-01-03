@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -------
 <p align='center'>
-   <a href="KunzxD"><img src='https://cardivo.vercel.app/api?name=Hey%20guys%20Kunz%20was%20here&description=404%20NOT%20FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea"/<>/a>
+   <a href="KunzxD404"><img src='https://cardivo.vercel.app/api?name=Hey%20guys%20Kunz%20was%20here&description=404%20NOT%20FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea"/<>/a>
  </p>
 <p align='center'>
    <a href="https://instagram.com/iam_kunzx"><img height="30" src="https://github.com/KunzxD404/Kunzxd404/blob/main/profilr.jpg?raw=true"></a>&nbsp;&nbsp;
