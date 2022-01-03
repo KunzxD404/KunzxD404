@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 
 -------
-<p align="center">
-<a href="https://cardivo.vercel.app/api?name=Hey%20guys%20Kunz%20was%20here&description=404%20NOT%20FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea
-<a
-
 <p align='center'>
    <a href="KunzxD"><img src='https://cardivo.vercel.app/api?name=Hey%20guys%20Kunz%20was%20here&description=404%20NOT%20FOUND&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=KunzxD404&pattern=leaf&colorPattern=%23eaeaea"/<>/a>
  </p>
