@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -------
 <p align="center">
-<a href="https://github.com/KunzxD404"><img src="https://telegra.ph/file/95fe230581902afd6e934.jpg"></a>&nbsp;&nbsp;
+<a href="https://github.com/KunzxD404"><img src="https://telegra.ph/file/07842db8869f027507b98.jpg"></a>&nbsp;&nbsp;
 <a
 <p align="center">
 <a href="https://instagram.com/iam_kunzx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
